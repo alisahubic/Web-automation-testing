@@ -20,6 +20,7 @@ namespace JOliver
         public static string CreateRequest()
         {
             string UrlRequest = "http://api.namefake.com/";
+            string harun;
             return UrlRequest;
         }
 
