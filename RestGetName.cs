@@ -17,6 +17,7 @@ namespace JOliver
     {
 
         //Create request
+        string harunl12222;
         public static string CreateRequest()
         {
             string UrlRequest = "http://api.namefake.com/";
